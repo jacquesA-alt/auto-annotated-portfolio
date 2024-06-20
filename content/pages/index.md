@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-b
     backgroundSize: full
-    title: ''
+    title: 'Bio '
     subtitle: >-
       I'm Avery Holmes. I'm a  Fashion Designer From Pennslvania who Drafts and
       Produces my patterns
