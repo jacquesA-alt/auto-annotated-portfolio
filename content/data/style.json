@@ -3,7 +3,7 @@
     "light": "#180e01",
     "onLight": "#050000",
     "dark": "#000000",
-    "onDark": "#ffffff",
+    "onDark": "#000000",
     "primary": "#ffffff",
     "onPrimary": "#ffffff",
     "secondary": "#ffffff",
