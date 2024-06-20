@@ -16,7 +16,7 @@ sections:
     title: 'Bio '
     subtitle: >-
       I'm Avery Holmes. I'm a  Fashion Designer From Pennsylvania whose  Journey
-      into Fashion Started from my fight withb
+      into Fashion Started from my fight with self expression 
     styles:
       self:
         height: auto
