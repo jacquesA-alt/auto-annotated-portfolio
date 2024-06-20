@@ -14,7 +14,9 @@ sections:
     colors: colors-b
     backgroundSize: full
     title: ''
-    subtitle: 'Im Avery Holmes,Im a  Fashion Designer From Pennslvania that  Drafts and c'
+    subtitle: >-
+      Im Avery Holmes,Im a  Fashion Designer From Pennslvania that  Drafts and
+      Produces  all my patterns .
     styles:
       self:
         height: auto
