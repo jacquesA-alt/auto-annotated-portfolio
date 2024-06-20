@@ -5,7 +5,7 @@ colors: colors-b
 date: '2021-12-20'
 client: ''
 description: >-
-  During this project ,I draped on a dress form to create something purely off
+  During this project,I draped on a dress form to create something purely off
   imagination .I was inspired by undercover and their way of distressing and
   showing raw hems and frays on their "scab" Collection 
 featuredImage:
