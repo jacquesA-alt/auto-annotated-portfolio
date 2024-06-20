@@ -5,9 +5,9 @@ colors: colors-b
 date: '2021-12-20'
 client: ''
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  During this project ,I draped on a dress form to create something purely off
+  imagination .I was inspired by undercover and their way of distressing and
+  showing raw hems and frays on their "scab" Collection 
 featuredImage:
   type: ImageBlock
   url: /images/AFBB4E5E-80F7-4EE2-97AA-78E03A583B8C.JPG
