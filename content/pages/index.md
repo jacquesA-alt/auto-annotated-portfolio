@@ -15,9 +15,10 @@ sections:
     backgroundSize: full
     title: 'Bio '
     subtitle: >-
-      I'm Avery Holmes. I'm a  Fashion Designer From Pennsylvania whose  Journey
-      into Fashion Started from my fight with self expression.I wanted my
-      fashion to 
+      I'm Avery Holmes. I'm a Fashion Designer From Pennsylvania whose  Journey
+      into Fashion Started from my fight with self expression. I wanted fashion
+      to explain the way om feeling without me saying the way o felt.So I used
+      clothing as language for that .
     styles:
       self:
         height: auto
