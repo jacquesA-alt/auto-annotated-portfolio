@@ -16,7 +16,7 @@ sections:
     title: ''
     subtitle: >-
       I'm Avery Holmes.  I'm a  Fashion Designer From Pennslvania who Drafts and
-      Produces  all my patterns .
+      Produces  ll my patterns .
     styles:
       self:
         height: auto
